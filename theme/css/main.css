@@ -490,10 +490,11 @@ li:last-child .hentry, #content > .hentry {border: 0; margin: 0;}
   #container{
     width: 100%;
   }
-  .body, #featured, #container{
+  .body, #featured{
     width: auto;
     left: 0;
     padding: 20px;
+    float: left
   }
   #sidebar{
     display: none;
