@@ -9,9 +9,9 @@ body {
     background: #FFF;
     color: #222;
     font-size: 18px; /* Base font size: 14px */
-    font-family:  "Palatino", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-family: ‘Palatino Linotype’, ‘Book Antiqua’, Palatino, serif;
     font-weight: normal;
-    line-height: 25px;
+    line-height: 28px;
     margin: 0;
     padding: 0;
     text-align: left;
@@ -29,17 +29,17 @@ h3 {font-size: 128%}
 h4 {font-size: 100%}
 
 h1, h2 {
-  line-height: 50px
+  line-height: 56px
 }
 h3 {
-  line-height: 25px
+  line-height: 28px
 }
 h4 {
   color: #444;
 }
 
 h1, h2, h3, h4, h5, h6 {
-	margin: 25px 0;
+	margin: 28px 0;
   font-weight: normal;
 }
 
@@ -66,7 +66,7 @@ h1 a:hover {
 }
 	
 /* Paragraphs */
-p {margin-bottom: 25px;}
+p {margin-bottom: 28px;}
 
 strong, b {font-weight: bold;}
 em, i {font-style: italic;}
@@ -101,7 +101,7 @@ dl {margin: 0 0 1.5em 0;}
 dt {font-weight: bold;}
 dd {margin-left: 1.5em;}
 
-pre{background-color: #000; padding: 10px; color: #fff; margin: 25px 10px 25px 0; overflow: auto;}
+pre{background-color: #000; padding: 10px; color: #fff; margin: 28px 10px 28px 0; overflow: auto;}
 
 /* Quotes */
 blockquote {
@@ -144,7 +144,7 @@ aside, nav, article, figure {
 }
 
 /***** Layout *****/
-.body {clear: both; margin: 25px auto; width: 800px; float: right;}
+.body {clear: both; margin: 28px auto; width: 800px; float: right;}
 img.right, figure.right {float: right; margin: 0 0 2em 2em;}
 img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 #container{
