@@ -88,7 +88,7 @@ ol {
 .post-info {
     margin:10px 0;
     padding:5px 0;
-    color: #aaa
+    color: #bbb
 }
 
 .post-info p{
@@ -473,9 +473,9 @@ li:last-child .hentry, #content > .hentry {border: 0; margin: 0;}
 	#add-comment input[type='submit'] {float: right; margin: 0 .5em;}
 	#add-comment * {margin-bottom: .5em;}
 
-@media all and (max-width:1100px){
+@media all and (max-width:1100px) and (min-width: 860px){
   #left-column{
-    margin-left: 0;
+    margin-left: 20px;
   }
   #container{
     margin: 0;
@@ -483,6 +483,29 @@ li:last-child .hentry, #content > .hentry {border: 0; margin: 0;}
   .body{
     left: 220px;
     position: relative;
+  }
+}
+
+@media all and (max-width: 860px){
+  #container{
+    width: 100%;
+  }
+  .body, #featured, #container{
+    width: auto;
+    left: 0;
+    padding: 20px;
+  }
+  #sidebar{
+    display: none;
+  }
+  pre{
+    white-space: normal;
+  }
+  article{
+    word-break: break-all;
+  }
+  img{
+    width: 100%;
   }
 }
 
