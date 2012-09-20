@@ -25,5 +25,10 @@ $(document).ready(function(){
     $(document).on('scroll',check_sidebar);
     $('#sidebar').hover(function(e){
         sidebar.css('opacity', 1);
-    }, check_sidebar);
+    }, function(e){
+        dist = $(document).scrollTop();
+        if (dist > 200){
+            sidebar.css('opacity', 0.2);
+        }
+    });
 });
