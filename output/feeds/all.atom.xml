@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Nick Meyer</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2012-09-19T23:36:51+02:00</updated><entry><title>This is a title</title><link href="/this-is-a-title.html" rel="alternate"></link><updated>2012-09-19T23:36:51+02:00</updated><author><name>Nick Meyer</name></author><id>tag:,2012-09-19:this-is-a-title.html</id><summary type="html">&lt;h2&gt;Download&lt;/h2&gt;
-&lt;p&gt;&lt;a href="http://daringfireball.net/projects/downloads/Markdown_1.0.1.zip"&gt;Markdown 1.0.1&lt;/a&gt; (18 &lt;span class="caps"&gt;KB&lt;/span&gt;) &amp;#8212; 17 Dec&amp;nbsp;2004&lt;/p&gt;
-&lt;h2&gt;Introduction&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Nick Meyer</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2012-09-20T01:19:19+02:00</updated><entry><title>This is a title</title><link href="/this-is-a-title.html" rel="alternate"></link><updated>2012-09-20T01:19:19+02:00</updated><author><name>Nick Meyer</name></author><id>tag:,2012-09-20:this-is-a-title.html</id><summary type="html">&lt;h2&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;Markdown is a text-to-&lt;span class="caps"&gt;HTML&lt;/span&gt; conversion tool for web writers. Markdown
 allows you to write using an easy-to-read, easy-to-write plain text
 format, then convert it to structurally valid &lt;span class="caps"&gt;XHTML&lt;/span&gt; (or&amp;nbsp;&lt;span class="caps"&gt;HTML&lt;/span&gt;).&lt;/p&gt;
